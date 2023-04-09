@@ -29,6 +29,7 @@ public:
 		Complex C3(0, 0);
 		C3.imag = this->imag * C2.imag;
 		C3.real = this->real * C2.real;
+		ijijiji
 		return C3;
 	}
 	Complex operator/(const Complex& C2)//жидидЫЫуЗћЁА/ЁБ
